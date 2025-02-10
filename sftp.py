@@ -2,12 +2,6 @@ import os
 import paramiko
 import time
 
-"""
-um script que permite transferir downloads de um computador para um servidor de forma automática
-"""
-
-
-
 HOST = "IP"
 PORT = "PORTA"
 USERNAME = "USUARIO"
